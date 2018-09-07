@@ -16,18 +16,14 @@ Score: 95/100
 Mean: 84.3/100  
 Stdev: 10.9  
 ### Experiment 4
-Score: -/100  
-Mean: -/100  
-Stdev: -  
+Score: 90/100  
+Mean: 83/100  
+Stdev: 10?  
 ### Experiment 5
-Score: -/100  
-Mean: -/100  
-Stdev: -  
-### Experiment 6
-Score: -/100  
-Mean: -/100  
-Stdev: -  
-### Experiment 7
+Score: 91/100  
+Mean: 79/100  
+Stdev: 13  
+### Experiment 6,7
 Score: -/100  
 Mean: -/100  
 Stdev: -  

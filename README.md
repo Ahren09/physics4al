@@ -25,5 +25,5 @@ Mean: 79/100
 Stdev: 13  
 ### Experiment 6,7
 Score: 91/100  
-Mean: -/100  
-Stdev: -  
+Mean: 85/100  
+Stdev: 14  
